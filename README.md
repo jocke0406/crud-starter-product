@@ -57,6 +57,6 @@ node seed.js
 
 Optional GUI: connect to `mongodb://localhost:27017` and select `myapidb`, collection `products`.
 
-## 🌍 GitHub Repo
+## 🌍 GitHub Rep
 
 [Link to GitHub repository](https://github.com/jocke0406/crud-starter-product)
