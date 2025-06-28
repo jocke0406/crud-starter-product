@@ -59,4 +59,4 @@ Optional GUI: connect to `mongodb://localhost:27017` and select `myapidb`, colle
 
 ## 🌍 GitHub Repo
 
-[Link to GitHub repository](https://github.com/your-username/crud-starter-product)
+[Link to GitHub repository](https://github.com/jocke0406/crud-starter-product)
